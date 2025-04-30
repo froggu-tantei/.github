@@ -20,7 +20,7 @@ We're just a bunch of nerds who decided that building silly stuff together is wa
 
 - **Yannis** - *Full Stack TS Dev* - Legend says he dreams in TypeScript and cries in JSX. Can build an entire app during a coffee break. Secretly believes any problem can be solved with "just one more npm package." (￣ω￣)
 
-- **Mevin** - *The Flutter GOAT* - Has a strange obsession with drawing rectangles that somehow become beautiful apps. Talks to his rubber duck about state management more than he talks to real people. ฅ^•ﻌ•^ฅ
+- **Melvin** - *The Flutter GOAT* - Has a strange obsession with drawing rectangles that somehow become beautiful apps. Talks to his rubber duck about state management more than he talks to real people. ฅ^•ﻌ•^ฅ
 
 - **Stouph** - *Cloud Architect* - Head perpetually in the clouds. Will give a 30-minute talk about infrastructure scaling when you just asked if the server is up. Has a concerning amount of AWS stickers. (っ˘ω˘ς )
 
