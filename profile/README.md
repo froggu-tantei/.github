@@ -38,15 +38,3 @@ We're just a bunch of nerds who decided that building silly stuff together is wa
 4. Coffee supplies critically depleted
 5. Something weirdly amazing emerges
 6. We celebrate like we just saved the world
-
-## Join Our Chaos! 🌀
-
-Are you weird enough to join us? Do you code for fun? Do you laugh at programming jokes? Can you survive on pizza and energy drinks? Perfect! You might just fit in!
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Chaos-ff69b4">
-  <img src="https://img.shields.io/badge/Based%20in-France-blue">
-  <img src="https://img.shields.io/badge/Status-Probably%20Breaking%20Production-orange">
-</div>
