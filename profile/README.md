@@ -1,4 +1,4 @@
-# アイリス (Iris) Organization ✨
+# イオ探偵事務所 ✨
 
 > "えお、私たちはかわいいよ" - *Yes, we are cute!* (づ｡◕‿‿◕｡)づ
 
