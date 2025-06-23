@@ -39,7 +39,7 @@ Community-Driven Growth
 - Sponsorship: Support developer education and gain community visibility
 
 
-## 📞 Contact & Partnerships
+## 📞 Contact & Platforms
 
 - Email: WIP
 - LinkedIn: [Froggu Tantei Labs](https://www.linkedin.com/company/froggu-tantei-labs/?viewAsMember=true)
