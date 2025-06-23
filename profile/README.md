@@ -46,6 +46,11 @@ Community-Driven Growth
 - X: WIP
 - Youtube: WIP
 - Spotify: WIP
+- Amazon Music/Audible: WIP
+- Deezer: WIP
+- Apple Podcasts: WIP
+- TikTok: WIP
+- Instagram: WIP
 
 ## Partnership Opportunities
 
