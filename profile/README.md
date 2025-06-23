@@ -1,4 +1,4 @@
-# フロッグ探偵 ✨
+# Froggu Tantei Labs ✨
 
 ## Developer Education Through Real-World Practice
 > "Learning by building, teaching by doing" - Bridging the gap between theory and industry practice
