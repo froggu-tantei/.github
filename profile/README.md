@@ -22,7 +22,6 @@ Community-Driven Growth
 
 ### For Learners
 
-- Discord Server: Join [here](https://discord.gg/RTYQYu66z7) for daily discussions
 - Calendar: WIP
 - Newsletter: WIP
 
@@ -46,6 +45,7 @@ Community-Driven Growth
 - X: WIP
 - Youtube: WIP
 - Spotify: WIP
+- Discord Server: WIP
 - Amazon Music/Audible: WIP
 - Deezer: WIP
 - Apple Podcasts: WIP
